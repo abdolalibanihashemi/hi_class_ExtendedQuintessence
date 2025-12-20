@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# CLASS / hi_class build products
+*.o
+*.mod
+*.a
+*.so
+*.dylib
+class
+hi_class
+build/
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+
